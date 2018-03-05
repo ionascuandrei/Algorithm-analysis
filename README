@@ -1,3 +1,7 @@
+Tema surprinde analiza structurilor de date, mai exat, cozile de prioritate.
+Voi aduce spre implementare la categoria arobri binari echilibrati, algoritmul
+AVL, iar la categoria heap, algoritmul Binary Heap.
+
 Tema - AA - Ionascu Andrei 325 CD
 	In folderul TEX reprezinta sursa LATEX pentru tema avuta
 	In folderul COD se afla si Makefile-ul, impreuna cu sursele
