@@ -7,5 +7,13 @@ de date variate. Ambii agloritmi sunt însoțiți de detalii de implementare, av
 complexite atât spațială, cât și temporală cât și performanță.
 
 
+Beneficiu personal:
+
+- aprofundarea celor doi alogritmi
+
+- familiarizarea cu punctele esențiale din analiza algoritmilor
+
+- înțelegerea nevoii de adaptare în alegerea algoritmilor, având în vedere nevoia problemei propuse
+
 
 Limbaj/biblioteci/cunoștințe folosite: Java
