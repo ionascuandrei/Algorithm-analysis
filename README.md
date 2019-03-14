@@ -3,3 +3,5 @@ The project consists of a comparative study on priority queues. This study looks
 	Personal gains:
 -	getting familiar with the LaTex program in order to create a scientific document
 -	understanding the key points in conducting an analysis
+
+Programming language/libraries/tools used: Java
