@@ -1,19 +1,5 @@
-# Algorithm analysis
-
-  Proiectul constă într-un studiu comparativ privind cozile de prioritate. Acest
-studiu are în vedere compararea algoritmului AVL din categoria arbori binari
-echilibrați și algoritmul Binary Heap din categoria heap, bazându-mă pe seturi
-de date variate. Ambii agloritmi sunt însoțiți de detalii de implementare, avantaje și dezavantaje,
-complexite atât spațială, cât și temporală cât și performanță.
-
-
-Beneficiu personal:
-
-- aprofundarea celor doi alogritmi
-
-- familiarizarea cu punctele esențiale din analiza algoritmilor
-
-- înțelegerea nevoii de adaptare în alegerea algoritmilor, având în vedere nevoia problemei propuse
-
-
-Limbaj/biblioteci/cunoștințe folosite: Java
+# Algorithm analysis scientific report
+The project consists of a comparative study on priority queues. This study looks at the comparison of the AVL algorithm in the balanced binary tree category and the Binary Heap algorithm in the heap category, based on various data sets. Both algorithms are accompanied by advantages and disadvantages, spatial and temporal complexity as well as performance on synthetic datasets.
+	Personal gains:
+-	getting familiar with the LaTex program in order to create a scientific document
+-	understanding the key points in conducting an analysis
